@@ -1,0 +1,68 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.navbar-brand img 
+{
+max-width: 100px;
+}
+
+#boton1 { color: #25a342;}
+
+/* Estilo de titulos */
+
+/* Estilo de carousel */
+
+.carousel-item
+{
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.carousel-item
+
+{
+    filter: brightness(60%);
+}
+
+#oradores
+{
+justify-content: center;
+}
+
+
+#COLuno
+{
+    padding: 0;
+    border: solid 1px;
+    border-color: white;
+}
+
+#COLdos
+{
+    padding: 0;
+    border: solid 1px;
+    border-color: white;
+   
+}
+
+
+#BotonEnviar
+{
+    background-color: #8EC926;
+    font-size: 22px;
+}
+
+.container-fluid
+{
+    margin:0 !important ;
+    padding: 0 !important;
+}
+
+form
+{
+    padding-left: 200px;
+    padding-right: 200px;
+}
